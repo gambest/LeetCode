@@ -1,3 +1,5 @@
+package ArraysAndHashing;
+
 public class ReverseString344 {
     public static void reverseString(char[] s) {
         char p;

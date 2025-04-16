@@ -1,5 +1,6 @@
+package ArraysAndHashing;
+
 import java.util.*;
-import java.util.function.IntFunction;
 
 public class TopKFrequent347 {
     public static void main(String[] args) {
